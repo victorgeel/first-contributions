@@ -52,7 +52,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Vedang](https://github.com/vedang685)
--  [Victorgeek]
+-  Victorgeek
 -  https://github.com/victorgeel
 - [kekeneit](https://github.com/kekeneit)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
