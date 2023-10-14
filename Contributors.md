@@ -4,7 +4,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
--[VictorIsGeek](https://github.com/victorgeel)
+- [VictorIsGeek](https://github.com/victorgeel)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Abhay Donga](https://github.com/AbhayDonga007)
